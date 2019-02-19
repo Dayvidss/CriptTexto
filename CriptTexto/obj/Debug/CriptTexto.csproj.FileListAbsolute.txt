@@ -1,0 +1,7 @@
+D:\workspace\Diversos\CriptTexto\CriptTexto\bin\Debug\CriptTexto.exe.config
+D:\workspace\Diversos\CriptTexto\CriptTexto\bin\Debug\CriptTexto.exe
+D:\workspace\Diversos\CriptTexto\CriptTexto\bin\Debug\CriptTexto.pdb
+D:\workspace\Diversos\CriptTexto\CriptTexto\obj\Debug\CriptTexto.csprojAssemblyReference.cache
+D:\workspace\Diversos\CriptTexto\CriptTexto\obj\Debug\CriptTexto.csproj.CoreCompileInputs.cache
+D:\workspace\Diversos\CriptTexto\CriptTexto\obj\Debug\CriptTexto.exe
+D:\workspace\Diversos\CriptTexto\CriptTexto\obj\Debug\CriptTexto.pdb
